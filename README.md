@@ -1,4 +1,4 @@
-# Gil's dotfiles & setup
+# Claus' dotfiles & setup
 
 [Mathias's readme](https://github.com/mathiasbynens/dotfiles/) is awesome. go read it.
 
