@@ -2,7 +2,7 @@
 
 [Mathias's readme](https://github.com/mathiasbynens/dotfiles/) is awesome. go read it.
 
-This is a mashup between [Paul Irish's dotfiles](https://github.com/paulirish/dotfiles) and [Raúl Uranga's powerbook](https://github.com/rauluranga/powerbook).
+This is a fork of [Gil Barbara's dotfiles](https://github.com/gilbarbara/dotfiles) which is a mashup between [Paul Irish's dotfiles](https://github.com/paulirish/dotfiles) and [Raúl Uranga's powerbook](https://github.com/rauluranga/powerbook).
 This repo is mostly for me but you're welcome to make suggestions. Fork it!
 
 ## install the necessary apps
